@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <string name="app_name">Buy Sell</string>
+
+    <!-- Activity Titles -->
+    <string formatted="false" name="buySellMain">Buy Sell</string>
+    <string formatted="false" name="localSellActivity">Local Sell</string>
+    <string formatted="false" name="buyActivity">Buy</string>
+</resources>
+
+
